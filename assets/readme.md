@@ -1,0 +1,1 @@
+D'autres assets qui sont utilisés dans votre dépôt (images, logo, etc...)
